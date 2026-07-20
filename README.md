@@ -11,3 +11,5 @@ This repository contains several projects that explore the fundamentals of progr
 * reading from and writing to a file using file streams
 * dynamic programming
 * unit testing
+
+# Note: pleas select a folder to see a visual description for most corresponding machine problems.
